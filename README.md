@@ -37,3 +37,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/matteocoding06/matteocoding06/output/snake.svg" alt="Snake animation" />
+
+###
