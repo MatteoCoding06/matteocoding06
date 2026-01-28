@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Matteo and I'm a Front-End Developer, from Italy 🇮🇹</p>
+<p align="left">My name is Matteo and I'm a Developer, from Italy 🇮🇹</p>
 
 ###
 
